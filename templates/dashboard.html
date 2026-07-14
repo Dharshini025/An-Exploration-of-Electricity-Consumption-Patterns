@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Electricity Consumption Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>India Electricity Consumption Analysis</h1>
+    <div class="tableau-container">
+        <iframe
+            src="{{ tableau_url }}"
+            width="1200"
+            height="800"
+            frameborder="0"
+            allowfullscreen>
+        </iframe>
+    </div>
+</body>
+</html>
