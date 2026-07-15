@@ -1,56 +1,40 @@
-# ⚡ An Exploration of Electricity Consumption Patterns
+# Plugging Into the Future — An Exploration of Electricity Consumption Patterns
 
-## 📌 Project Overview
+A SmartBridge project exploring electricity consumption patterns through data
+preprocessing, visualization, and dashboarding in Tableau.
 
-This project focuses on analyzing electricity consumption patterns using data analytics and visualization techniques. The aim is to understand energy usage trends, identify consumption patterns, and present meaningful insights through an interactive dashboard.
+## Repository Structure
 
-The project provides a user-friendly dashboard to explore electricity usage data and support data-driven decision making.
+```
+├── Ideation Phase/
+│   ├── Problem Statement.docx
+│   ├── Empathy Map.docx
+│   └── Brain Storming.docx
+├── Requirement Analysis/
+│   ├── Customer Journey Map.docx
+│   ├── Solution Requirement.docx
+│   ├── Data Flow Diagram.docx
+│   └── Technology Stack.docx
+├── Project Design Phase/
+│   ├── Problem Solution Fit.docx
+│   ├── Proposed Solution.docx
+│   └── Solution Architecture.docx
+├── Project Planning Phase/
+│   └── Project Planning Template.docx
+├── Project Development Phase/
+│   ├── Dataset.csv
+│   ├── 1st PDF - Preprocessing & Business Questions.pdf
+│   └── 2nd PDF - Dashboard & Story Screenshots + Tableau Links.pdf
+├── Performance Testing/
+│   └── Performance Testing Template.docx
+└── Doc and Demo/
+    ├── Final Report.docx
+    └── Demonstration Video.mp4  (or a link below, if too large for GitHub)
+```
 
----
+## Tableau Public
+`https://public.tableau.com/app/profile/<your-profile>/viz/<workbook-name>`
+*(replace with your published workbook link)*
 
-## 🎯 Objectives
-
-- Analyze electricity consumption trends
-- Identify patterns in power usage
-- Visualize energy consumption insights
-- Build an interactive dashboard for better understanding of data
-
----
-
-## 🛠️ Technologies Used
-
-- **Tableau** – Data visualization and dashboard creation
-- **Python** – Data processing and analysis
-- **HTML/CSS** – Dashboard interface
-- **SQL** – Data management
-
----
-
-## 📂 Project Structure
-Tableau_project/
-│
-├── app.py # Application file
-├── dashboard.html # Dashboard webpage
-├── static/ # CSS and static files
-├── templates/ # HTML templates
-├── README.md # Project documentation
-└── .gitignore # Ignored files
-
----
-
-## 📊 Dashboard Features
-
-- Interactive electricity consumption analysis
-- Data visualization using charts and graphs
-- Easy exploration of consumption trends
-- User-friendly dashboard interface
-
----
-
-## 📈 Key Insights
-
-- Identified electricity usage patterns
-- Analyzed variations in consumption
-- Presented trends using interactive visualizations
-
----
+## Demo Video
+`<add YouTube / Drive link here if the video isn't uploaded directly>`
