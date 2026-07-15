@@ -1,6 +1,6 @@
 # Plugging Into the Future — An Exploration of Electricity Consumption Patterns
 
-A SmartBridge project exploring electricity consumption patterns through data
+A project exploring electricity consumption patterns through data
 preprocessing, visualization, and dashboarding in Tableau.
 
 ## Repository Structure
