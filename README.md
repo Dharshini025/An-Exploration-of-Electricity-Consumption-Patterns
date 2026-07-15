@@ -36,4 +36,4 @@ preprocessing, visualization, and dashboarding in Tableau.
 https://public.tableau.com/views/Electricity_Consumption_Analysis_17840432823280/MonthlyElectricityConsumptionin2019?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Demo Video
-https://github.com/Dharshini025/An-Exploration-of-Electricity-Consumption-Patterns/tree/main/static
+https://drive.google.com/file/d/1FScCCjXmwJTvtQBVWqRkHzLHFqZJ1orr/view?usp=sharing
