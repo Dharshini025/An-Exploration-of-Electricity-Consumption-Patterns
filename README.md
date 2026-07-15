@@ -33,8 +33,7 @@ preprocessing, visualization, and dashboarding in Tableau.
 ```
 
 ## Tableau Public
-`https://public.tableau.com/app/profile/<your-profile>/viz/<workbook-name>`
-*(replace with your published workbook link)*
+https://public.tableau.com/views/Electricity_Consumption_Analysis_17840432823280/MonthlyElectricityConsumptionin2019?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Demo Video
 `<add YouTube / Drive link here if the video isn't uploaded directly>`
