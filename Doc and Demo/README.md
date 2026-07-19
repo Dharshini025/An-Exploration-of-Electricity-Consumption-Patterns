@@ -1,6 +1,4 @@
 # Doc and Demo
 
 - **Final Report** — `Final Report.docx`
-- **Demonstration Video** — short screen-recorded walkthrough of the dashboard
-  (`Demonstration Video.mp4`, or see the link in the root README if the file
-  is too large for GitHub)
+- **Demonstration Video** — https://drive.google.com/file/d/1FScCCjXmwJTvtQBVWqRkHzLHFqZJ1orr/view?usp=sharing
